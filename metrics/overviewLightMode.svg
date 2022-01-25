@@ -10,7 +10,7 @@ svg {
   width: calc(100% - 10px);
   height: calc(100% - 10px);
   fill: #00000000;
-  stroke: #33DD11;
+  stroke: #22CC00;
   stroke-width: 1px;
   rx: 6px;
   ry: 6px;
@@ -33,7 +33,7 @@ th {
   text-align: left;
   font-size: 18px;
   font-weight: 600;
-  color: #33DD22;
+  color: #22CC11;
 }
 
 thead {
@@ -51,7 +51,7 @@ td {
   padding: 0.25em;
   font-size: 12px;
   line-height: 18px;
-  color: #adbac7;
+  color: #233;
 }
 
 tr {
@@ -61,7 +61,7 @@ tr {
   animation-function: ease-in-out;
   animation-fill-mode: forwards;
 }
-
+  
 tr:hover {
   transform: none;
   animation: shake 0.5s;
@@ -69,11 +69,11 @@ tr:hover {
 }
 
 .octicon {
-  fill: #768390;
+  fill: rgb(89, 96, 105);
   margin-right: 1ch;
   vertical-align: top;
 }
-
+  
 .bold {
   font-weight: 900;
 }
@@ -85,17 +85,17 @@ tr:hover {
 }
   
 @keyframes rgbGlow {
-  1% { text-shadow: 0px 0px 5px rgba(11,124,199,0.3);}
-  5% { text-shadow: 0px 0px 5px rgba(11,124,199,0.75);}
-  10% { text-shadow: 0px 0px 5px rgba(168,11,199,0.75);}
-  20% { text-shadow: 0px 0px 5px rgba(11,199,96,0.75);}
-  30% { text-shadow: 0px 0px 5px rgba(199,11,11,0.75);}
-  40% { text-shadow: 0px 0px 5px rgba(199,96,11,0.75);}
-  50% { text-shadow: 0px 0px 5px rgba(11,124,199,0.75);}
-  60% { text-shadow: 0px 0px 5px rgba(168,11,199,0.75);}
-  70% { text-shadow: 0px 0px 5px rgba(11,199,96,0.75);}
-  80% { text-shadow: 0px 0px 5px rgba(199,11,11,0.75);}
-  90% { text-shadow: 0px 0px 5px rgba(199,96,11,0.75);}
+  1% { text-shadow: 0px 0px 5px rgba(11,124,199,0.2);}
+  5% { text-shadow: 0px 0px 5px rgba(11,124,199,0.5);}
+  10% { text-shadow: 0px 0px 5px rgba(168,11,199,0.5);}
+  20% { text-shadow: 0px 0px 5px rgba(11,199,96,0.5);}
+  30% { text-shadow: 0px 0px 5px rgba(199,11,11,0.5);}
+  40% { text-shadow: 0px 0px 5px rgba(199,96,11,0.5);}
+  50% { text-shadow: 0px 0px 5px rgba(11,124,199,0.5);}
+  60% { text-shadow: 0px 0px 5px rgba(168,11,199,0.5);}
+  70% { text-shadow: 0px 0px 5px rgba(11,199,96,0.5);}
+  80% { text-shadow: 0px 0px 5px rgba(199,11,11,0.5);}
+  90% { text-shadow: 0px 0px 5px rgba(199,96,11,0.5);}
 }
 
 @keyframes shake {
