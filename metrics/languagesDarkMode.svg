@@ -8,7 +8,7 @@ svg {
 
 #background {
   width: calc(100% - 10px);
-  height: calc(100% - 10px);
+  height: calc(100% + 500px);
   fill: #00000000;
   stroke: #33DD11;
   stroke-width: 1px;
@@ -46,20 +46,18 @@ ul {
 li {
   display: inline-flex;
   font-size: 12px;
-  margin-right: 2ch;
+  margin-right: 1ch;
   align-items: center;
   flex-wrap: nowrap;
-  transform: translateX(-500%);
+  transform: translateX(-600%);
   animation-duration: 1.5s;
   animation-name: slideIn;
   animation-function: ease-in-out;
   animation-fill-mode: forwards;
 }
 
-li:hover {
-  transform: none;
-  animation: shake 0.5s;
-  animation-iteration-count: infinite;
+li .percent{
+  font-size: 10px;
 }
 
 @keyframes slideIn {
@@ -119,7 +117,6 @@ div.ellipsis {
 }
 
 .progress-item {
-  outline: 1px solid rgb(225, 228, 232);
   border-collapse: collapse;
 }
 
