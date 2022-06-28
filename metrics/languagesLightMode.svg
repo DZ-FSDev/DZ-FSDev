@@ -143,7 +143,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #b07219;width: 43.71833%;" class="progress-item"></span><span style="background-color: #e34c26;width: 15.18932%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 10.94980%;" class="progress-item"></span><span style="background-color: #3572A5;width: 9.47745%;" class="progress-item"></span><span style="background-color: #178600;width: 6.06146%;" class="progress-item"></span><span style="background-color: #dad8d8;width: 4.55677%;" class="progress-item"></span><span style="background-color: #e38c00;width: 4.51969%;" class="progress-item"></span><span style="background-color: #563d7c;width: 2.80489%;" class="progress-item"></span><span style="background-color: #4F5D95;width: 1.55282%;" class="progress-item"></span><span style="background-color: #e16737;width: 0.26624%;" class="progress-item"></span><span style="background-color: #3D6117;width: 0.21913%;" class="progress-item"></span><span style="background-color: #555555;width: 0.17163%;" class="progress-item"></span><span style="background-color: #f34b7d;width: 0.13922%;" class="progress-item"></span><span style="background-color: #4298b8;width: 0.06706%;" class="progress-item"></span><span style="background-color: #000000;width: 0.04801%;" class="progress-item"></span><span style="background-color: #0298c3;width: 0.04769%;" class="progress-item"></span><span style="background-color: #012456;width: 0.04072%;" class="progress-item"></span><span style="background-color: #EB8CEB;width: 0.03497%;" class="progress-item"></span><span style="background-color: #c6538c;width: 0.03298%;" class="progress-item"></span><span style="background-color: #b845fc;width: 0.03228%;" class="progress-item"></span><span style="background-color: #DA5B0B;width: 0.02097%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.00837%;" class="progress-item"></span><span style="background-color: #198CE7;width: 0.00735%;" class="progress-item"></span><span style="background-color: #ffc200;width: 0.00665%;" class="progress-item"></span><span style="background-color: #c22d40;width: 0.00620%;" class="progress-item"></span><span style="background-color: #5686a5;width: 0.00563%;" class="progress-item"></span><span style="background-color: #00ADD8;width: 0.00479%;" class="progress-item"></span><span style="background-color: #3178c6;width: 0.00377%;" class="progress-item"></span><span style="background-color: #A97BFF;width: 0.00256%;" class="progress-item"></span><span style="background-color: #C1F12E;width: 0.00205%;" class="progress-item"></span><span style="background-color: #701516;width: 0.00121%;" class="progress-item"></span>
+<span style="background-color: #b07219;width: 43.75031%;" class="progress-item"></span><span style="background-color: #e34c26;width: 15.18034%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 10.94333%;" class="progress-item"></span><span style="background-color: #3572A5;width: 9.47185%;" class="progress-item"></span><span style="background-color: #178600;width: 6.05788%;" class="progress-item"></span><span style="background-color: #dad8d8;width: 4.55408%;" class="progress-item"></span><span style="background-color: #e38c00;width: 4.51702%;" class="progress-item"></span><span style="background-color: #563d7c;width: 2.80323%;" class="progress-item"></span><span style="background-color: #4F5D95;width: 1.55318%;" class="progress-item"></span><span style="background-color: #e16737;width: 0.26608%;" class="progress-item"></span><span style="background-color: #3D6117;width: 0.21900%;" class="progress-item"></span><span style="background-color: #555555;width: 0.17153%;" class="progress-item"></span><span style="background-color: #f34b7d;width: 0.13914%;" class="progress-item"></span><span style="background-color: #4298b8;width: 0.06702%;" class="progress-item"></span><span style="background-color: #000000;width: 0.04798%;" class="progress-item"></span><span style="background-color: #0298c3;width: 0.04766%;" class="progress-item"></span><span style="background-color: #012456;width: 0.04070%;" class="progress-item"></span><span style="background-color: #EB8CEB;width: 0.03495%;" class="progress-item"></span><span style="background-color: #c6538c;width: 0.03296%;" class="progress-item"></span><span style="background-color: #b845fc;width: 0.03226%;" class="progress-item"></span><span style="background-color: #DA5B0B;width: 0.02095%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.00837%;" class="progress-item"></span><span style="background-color: #198CE7;width: 0.00735%;" class="progress-item"></span><span style="background-color: #ffc200;width: 0.00664%;" class="progress-item"></span><span style="background-color: #c22d40;width: 0.00620%;" class="progress-item"></span><span style="background-color: #5686a5;width: 0.00562%;" class="progress-item"></span><span style="background-color: #00ADD8;width: 0.00479%;" class="progress-item"></span><span style="background-color: #3178c6;width: 0.00377%;" class="progress-item"></span><span style="background-color: #A97BFF;width: 0.00256%;" class="progress-item"></span><span style="background-color: #C1F12E;width: 0.00204%;" class="progress-item"></span><span style="background-color: #701516;width: 0.00121%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -166,7 +166,7 @@ div.ellipsis {
                         Java
                     </span>
                     <span class="percent">
-                        43.718%
+                        43.750%
                     </span>
             </li>
             <li style="animation-delay: 150ms;">
@@ -185,7 +185,7 @@ div.ellipsis {
                         HTML
                     </span>
                     <span class="percent">
-                        15.189%
+                        15.180%
                     </span>
             </li>
             <li style="animation-delay: 300ms;">
@@ -204,7 +204,7 @@ div.ellipsis {
                         JavaScript
                     </span>
                     <span class="percent">
-                        10.950%
+                        10.943%
                     </span>
             </li>
             <li style="animation-delay: 450ms;">
@@ -223,7 +223,7 @@ div.ellipsis {
                         Python
                     </span>
                     <span class="percent">
-                        9.477%
+                        9.472%
                     </span>
             </li>
             <li style="animation-delay: 600ms;">
@@ -242,7 +242,7 @@ div.ellipsis {
                         C#
                     </span>
                     <span class="percent">
-                        6.061%
+                        6.058%
                     </span>
             </li>
             <li style="animation-delay: 750ms;">
@@ -261,7 +261,7 @@ div.ellipsis {
                         PLSQL
                     </span>
                     <span class="percent">
-                        4.557%
+                        4.554%
                     </span>
             </li>
             <li style="animation-delay: 900ms;">
@@ -280,7 +280,7 @@ div.ellipsis {
                         TSQL
                     </span>
                     <span class="percent">
-                        4.520%
+                        4.517%
                     </span>
             </li>
             <li style="animation-delay: 1050ms;">
@@ -299,7 +299,7 @@ div.ellipsis {
                         CSS
                     </span>
                     <span class="percent">
-                        2.805%
+                        2.803%
                     </span>
             </li>
             <li style="animation-delay: 1200ms;">
